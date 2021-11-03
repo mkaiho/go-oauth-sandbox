@@ -1,10 +1,10 @@
-package infra_test
+package infrastructure_test
 
 import (
 	"os"
 	"testing"
 
-	"github.com/mkaiho/go-oauth-sandbox/infra"
+	infra "github.com/mkaiho/go-oauth-sandbox/infrastructure"
 )
 
 func TestSimpleEnvLoader(t *testing.T) {
