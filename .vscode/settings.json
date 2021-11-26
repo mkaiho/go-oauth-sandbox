@@ -1,5 +1,3 @@
 {
-  "[go]": {
-      "editor.formatOnPaste": true
-  }
+  "editor.formatOnSave": true
 }
